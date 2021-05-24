@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What are React lifecycle methods? Provide three examples.
 
-  Your answer: A React lifecycle method is a a built in method in a react lifecycle. A few examples would be the constructor(), render(), and return()
+  Your answer: A react life cycle method is the life events of a react method some examples are the constructor, render, and return.
 
   Researched answer: A React life cycle method is a built in method in a react lifecycle a few examples would be the constructor(), render(), and componentDidMount().
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. What is a ternary operator in JavaScript?
 
-  Your answer:A terenary operator is an operator that takes three arguements
+  Your answer:I dont know off the top of my head, however, im willing to research and get a better understanding.
 
   Researched answer:A ternary operator is an operator that takes three arguements and is a short way of writing a conditional statement.
 
@@ -49,7 +49,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 6. STRETCH: What is an anonymous function in JavaScript?
 
-  Your answer:An anonymous function is a function that is not named.
+  Your answer:An anonymous function is a function that does not have a name.
 
   Researched answer:An anonymous function is a function that is declared without a name.
 
